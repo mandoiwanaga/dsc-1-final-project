@@ -5,6 +5,10 @@
 ## Slides Link: https://docs.google.com/presentation/d/1qo3Yt_Dx-KqnjjmhuNVsunnTVlqVYiiVXhsF3kR5SL8/edit?usp=sharing
 ## Jupyter Notebook Link: https://github.com/worldyne/dsc-1-final-project/blob/master/project.ipynb
 
+# Project Overview
+* The data set is based on King County Housing sales data.
+* The goal of the project is to predict housing prices based on best fit features through linear regression.
+* Feature selection is based on best K-Folds Cross Validation results.
 
 
 
